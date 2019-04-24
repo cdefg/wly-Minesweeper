@@ -14,6 +14,4 @@ build ncurses on Linux operating system.
 add 0-sweeping mode(in function mine()), but still bugged
 preparing for timer
 
-
-
-file:///home/wly/%E5%9B%BE%E7%89%87/minesweeperdemo.png
+![minesweeperdemo](./img/minesweeperdemo.png)
